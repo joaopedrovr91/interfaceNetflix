@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interface Netflix</string>
+    <string name="Menu_mensagem">Menu de mensagens</string>
+    <string name="Menu_volume">Menu do volume</string>
+    <string name="Menu_Avaliacao">Menu de Avaliação</string>
+    <string name="Menu_Episodios">Menu de Episodios</string>
+</resources>
